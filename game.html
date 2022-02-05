@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="sk">
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="theme-color" content="#db4938" />
+    <meta name="viewport" content="width=device-width"/>
+    <meta http-equiv="X-UA-Compatible" content="ie=edge"/>
+    <meta name="apple-mobile-web-app-status-bar" content="#db4938" />
+
+    <script src="https://cdn.jsdelivr.net/npm/interactjs/dist/interact.min.js" defer></script>
+    <script src="https://unpkg.com/interactjs/dist/interact.min.js" defer></script>
+    <script src="main.js" defer></script>
+
+    <link rel="apple-touch-icon" href="favicon/apple-touch-icon.png"/>
+    <link rel="icon" type="image/x-icon" href="favicon/favicon.ico"/>
+    <link rel="stylesheet" href="styles/style.css"/>
+    <link rel="manifest" href="manifest.json"/>
+
+    <title>Hra</title>
+</head>
+<body>
+    <header class="index-header">
+        <a href="index.html" class="back-to-menu-href"><h1>Späť</h1></a>
+    </header>
+
+    <article id="game-article" class="game-article">
+        <h3>Hra</h3>
+        <p id="level">level 1/11</p>
+        <div class="game-options">
+            <div id="option1" class="option">Možnosť 1</div>
+            <div id="option2" class="option">Možnosť 2</div>
+            <div id="option3" class="option">Možnosť 3</div>
+        </div>
+        <div id="dropzone" class="solution">Odpoveď</div>
+        <div class="game-hint">?
+            <div id="game-hint-text">Something went wrong...</div>
+        </div>
+        <div class="game-answer">*
+            <div id="game-answer-text">Something went wrong...</div>
+        </div>
+    </article>
+</body>
+</html>

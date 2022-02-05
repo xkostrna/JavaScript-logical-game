@@ -1,0 +1,9 @@
+* {
+    font-size: 12px;
+    background: white;
+    color: black;
+}
+
+@page {
+    margin : 1cm;
+}

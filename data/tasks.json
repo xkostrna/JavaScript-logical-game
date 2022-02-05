@@ -1,0 +1,72 @@
+[
+    {
+        "id": "1",
+        "src": "candle.jpg",
+        "options": "candle,flame,light",
+        "solution": "candle",
+        "clue": "During Advent, it burns every sunday."
+    },
+    {
+        "id": "2",
+        "src": "bears.jpg",
+        "options": "snow,bears,mountain",
+        "solution": "bears",
+        "clue": "They are big and usually brown, living in the forest."
+    },
+    {
+        "id": "3",
+        "src": "camaro.jpg",
+        "options": "Porshe,Mustang,Camaro",
+        "solution": "Camaro",
+        "clue": "American power, since 1909."
+    },
+    {
+        "id": "4",
+        "src": "eagle.jpg",
+        "options": "raven,hawk,eagle",
+        "solution": "eagle",
+        "clue": "People say, you have eyes like an ..."
+    },
+    {
+        "id": "5",
+        "src": "flamingos.jpg",
+        "options": "flamingos,bird,pigeon",
+        "solution": "flamingos",
+        "clue": "Quite a big birds, usually living in North America."
+    },
+    {
+        "id": "6",
+        "src": "hummingbird.jpg",
+        "options": "humming bird,blackbird,swallow",
+        "solution": "humming bird",
+        "clue": "Fastest animal on the planet, also the smallest."
+    },
+    {
+        "id": "7",
+        "src": "nemo.jpg",
+        "options": "Nemo,pike,carp",
+        "solution": "Nemo",
+        "clue": "Famous thanks to a movie."
+    },
+    {
+        "id": "8",
+        "src": "tajmahal.jpg",
+        "options": "Taj Mahal,Sphinx,Abu Dhabi",
+        "solution": "Taj Mahal",
+        "clue": "In 2004 this building celebrated 350th anniversary."
+    },
+    {
+        "id": "9",
+        "src": "octopus.jpg",
+        "options": "turtle,shark,octopus",
+        "solution": "octopus",
+        "clue": "Eight legs, and kinda scary."
+    },
+    {
+        "id": "10",
+        "src": "seal.jpg",
+        "options": "penguin,seal,walrus",
+        "solution": "seal",
+        "clue": "Quite fatty animal, likes to stay in a watter a lot."
+    }
+]
